@@ -1,6 +1,6 @@
 # WHP
 
-- VMWare Wokrstation을 설치할 때 WHP의 설치에 대한 질문이 나타납니다. 여기서 WHP가 무엇이고 윈도우의 Hyper-V와 VMware Workstation의 하이퍼바이저가 어떻게 다른지 살펴보겠습니다.
+- VMWare Wokrstation을 설치할 때 WHP의 설치에 대한 질문이 나타납니다. 여기서 WHP가 무엇이고 윈도우의 Hyper-V와 가상머신에서의 Hyper-V가 어떻게 다른지 살펴보겠습니다.
 
 - 우선 하이퍼바이저는 호스트 컴퓨터에서 다수의 운영 체제를 동시에 실행할 수 있는 논리적 플랫폼을 의미합니다.
 
